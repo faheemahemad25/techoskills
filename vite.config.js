@@ -1,9 +1,18 @@
+// import { defineConfig } from 'vite'
+// import react from '@vitejs/plugin-react'
+
+// export default defineConfig({
+//   base: "/techoskills/",
+//   plugins: [react()],
+// });
+
+
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: "/techoskills/",
   plugins: [react()],
+  base: process.env.VITE_BASE_PATH || "/techoskills/",
 });
 
 
