@@ -23,7 +23,7 @@ function ContactUs() {
                 </div>
                 <div style={{ display: "flex", alignItems: "center", gap: "10px", marginBlock:"10px" }}>
                     <h3>Instagram: </h3>
-                    <Link to='https://www.instagram.com/techo_skills/' target="_blank">instagram.com/techo_skills/</Link>
+                    <Link to='https://www.instagram.com/techoskillsofficial/' target="_blank">instagram.com/techoskillsofficial/</Link>
                 </div>
                 <div style={{ display: "flex", alignItems: "center", gap: "10px", marginBlock:"10px" }}>
                     <h3>Facebook: </h3>
