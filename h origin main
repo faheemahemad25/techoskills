@@ -1,0 +1,77 @@
+[33mcommit 3706ee51dc0a73bd47c072dc8086e91b67ab6347[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Faheem Ahemadji <faheemahemad25@gmail.com>
+Date:   Fri May 1 12:10:04 2026 +0530
+
+    Update url icons in ContactUs compoent files
+
+[33mcommit fe54f0a326cc09f87549eebb0cf90cd46081b941[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Faheem Ahemadji <faheemahemad25@gmail.com>
+Date:   Fri May 1 11:51:59 2026 +0530
+
+    Update ContactUs compoent files
+
+[33mcommit 61137de67f2c5d4c29fe073dbab29bc9a67801bd[m
+Author: Faheem Ahemad <faheemahemad25@gmail.com>
+Date:   Fri May 1 11:05:53 2026 +0530
+
+    Update Instagram url link in ContactUs component
+
+[33mcommit 41ea6ef78b1f896f89fbf7cb2ee7a3c30efb1f31[m
+Author: Faheem Ahemadji <faheemahemad25@gmail.com>
+Date:   Sun Jan 18 18:43:26 2026 +0530
+
+    changes base in config file with BASE PATH
+
+[33mcommit f3b0fdacdafa10addd22f307847db1187c262b20[m
+Author: Faheem Ahemadji <faheemahemad25@gmail.com>
+Date:   Sun Jan 18 18:17:31 2026 +0530
+
+    delete env file and chnage vite.config file
+
+[33mcommit fb6031ff28bac4cd606e69fac2d29e3a0537fa67[m
+Author: Faheem Ahemadji <faheemahemad25@gmail.com>
+Date:   Sun Jan 18 18:00:53 2026 +0530
+
+    .env file and vite.config file chnaged
+
+[33mcommit cad1391e22b008f23817ab2375534ea86722cf91[m
+Author: Faheem Ahemadji <faheemahemad25@gmail.com>
+Date:   Sun Jan 18 17:34:00 2026 +0530
+
+    index file chnaged title name changed
+
+[33mcommit 30302f5e2be816da3a94ffae4c1e237ec270a400[m
+Author: Faheem Ahemadji <faheemahemad25@gmail.com>
+Date:   Sun Jan 18 17:16:20 2026 +0530
+
+    main.jsx file changed HashRoute bcz child route directly not working
+
+[33mcommit c75f8e2b606f81c9235ba4b4bf3cb5da9568c598[m
+Author: Faheem Ahemadji <faheemahemad25@gmail.com>
+Date:   Sun Jan 18 17:01:50 2026 +0530
+
+    gh-pages install
+
+[33mcommit 92302ec9868dda737af8f1f725814e05d7e1f787[m
+Author: Faheem Ahemadji <faheemahemad25@gmail.com>
+Date:   Sun Jan 18 16:51:17 2026 +0530
+
+    changes in some files
+
+[33mcommit 8de0a1d09a2446eceed2dc90808dcab7cd40d7e8[m
+Author: Faheem Ahemadji <faheemahemad25@gmail.com>
+Date:   Sun Jan 18 16:36:34 2026 +0530
+
+    updated vite.config.js file base name given
+
+[33mcommit ed08525feee3e43c774c9870abbf58f4691b71d9[m
+Author: Faheem Ahemadji <faheemahemad25@gmail.com>
+Date:   Sun Jan 18 16:29:01 2026 +0530
+
+    Updated baseurl
+
+[33mcommit 3476e54e829204843b49a0cb195933478e4c5174[m
+Author: Faheem Ahemadji <faheemahemad25@gmail.com>
+Date:   Sun Jan 18 16:10:25 2026 +0530
+
+    first commit
