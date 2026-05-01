@@ -9,10 +9,6 @@ function ContactUs() {
                     <h3>Website: </h3>
                     <Link to='https://www.techoskills.com/' target="_blank">techoskills.com/</Link>
                 </div>
-                <div style={{ display: "flex", alignItems: "center", gap: "10px", marginBlock:"10px" }}>
-                    <h3>Youtube: </h3>
-                    <Link to='https://www.youtube.com/@TechoSkills' target="_blank">youtube.com/@TechoSkills</Link>
-                </div>
                  <div style={{ display: "flex", alignItems: "center", gap: "10px", marginBlock:"10px" }}>
                     <h3>LinkedIn: </h3>
                     <Link to='https://www.linkedin.com/company/techoskills/' target="_blank">linkedin.com/company/techoskills/</Link>
@@ -20,6 +16,10 @@ function ContactUs() {
                 <div style={{ display: "flex", alignItems: "center", gap: "10px", marginBlock:"10px" }}>
                     <h3>Twitter(X): </h3>
                     <Link to='https://x.com/TechoSkills' target="_blank">x.com/TechoSkills</Link>
+                </div>
+                <div style={{ display: "flex", alignItems: "center", gap: "10px", marginBlock:"10px" }}>
+                    <h3>Youtube: </h3>
+                    <Link to='https://www.youtube.com/@TechoSkills' target="_blank">youtube.com/@TechoSkills</Link>
                 </div>
                 <div style={{ display: "flex", alignItems: "center", gap: "10px", marginBlock:"10px" }}>
                     <h3>Instagram: </h3>
